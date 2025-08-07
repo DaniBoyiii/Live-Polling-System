@@ -1,4 +1,4 @@
-# 🎉🔥 Intervue Live Polling System 🔥🎉
+# 🎉🔥Live Polling System 🔥🎉
 
 ![Live Polling Banner](https://user-images.githubusercontent.com/yourusername/banner-image-url.png)
 
